@@ -1,7 +1,6 @@
 """
 This file contains the AircraftDistributed class that can be used to implement individual planning.
 
-Code in this file is just provided as guidance, you are free to deviate from it.
 """
 
 from single_agent_planner import a_star
